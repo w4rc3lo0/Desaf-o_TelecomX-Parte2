@@ -1,5 +1,5 @@
 # Desaf-o_TelecomX-Parte2
-Tu nueva misión es desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
+La nueva misión QUE NOS IMPARTE ALURA LATAM es desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
 📌 Resumen del Proyecto
 Este proyecto analiza los patrones de fuga de clientes (churn) en una empresa de telecomunicaciones (TelecomX) en Latinoamérica. Incluye:
 - Preprocesamiento de datos (limpieza, normalización y feature engineering)
